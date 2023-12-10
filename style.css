@@ -1,0 +1,264 @@
+@font-face {
+    font-family: Bfont;
+    src: url(assets/font/PaytoneOne.ttf);
+}
+@font-face {
+    font-family: font;
+    src: url(assets/font/Comfortaa.ttf);
+}
+*{
+    margin: 0; padding: 0;
+    outline: none; border: none;
+}
+body{
+    font-family: font;
+    background-color: rgb(243, 243, 243);
+}
+nav{
+    display: flex;
+    flex-direction: row;
+}
+.search-container{
+    border-radius: 7px;
+    height: 40px;
+    margin: 2.5em;
+    padding: 0.2rem 1.5rem 0.2rem 1.5rem;
+    border: 1px solid rgb(165, 165, 165);
+    box-shadow: 0 0 3px rgb(165, 165, 165);
+    z-index: 3;
+}
+.search-container input{
+    width: 400px; height: 40px;
+    font-size: 1.3rem;
+    font-family: font;
+    background-color: rgb(243, 243, 243);
+}
+.search-container i{
+    font-size: 1.4rem;
+}
+.logo-container img{
+    width: 65px; height: 64px;
+    margin-top: 1.3em;
+    margin-left: 53rem;
+    cursor: pointer;
+}
+.result-container{
+    transform: translateY(10px);
+    box-shadow: 0px 0 20px rgb(0, 87, 31);
+    width: 320px;
+}
+.search-result{
+    width: 270px;
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+    padding: 0.35rem 4rem 0.35rem 1.5rem;
+    margin-left: -1.5em;
+    cursor: pointer;
+    transition: 0.2s;
+    border: 1px solid rgb(150, 150, 150);
+    border-radius: 4px;
+}
+.search-result:hover{
+    box-shadow: 0 0 5px rgb(45, 45, 45);
+}
+.search-result:hover p{
+    font-weight: 800;
+}
+.search-result img{
+    width: 30px; height: 33px;
+}
+.search-result p{
+    margin-top: 10px;
+    margin-left: 0.8em;
+    transition: 0.2s;
+}
+main section{
+    display: flex;
+    flex-direction: row;
+}
+.title{
+    font-family: Bfont;
+    font-size: 3.7rem;
+    margin-left: 0.6em;
+    margin-top: 2rem;
+    width: 665px;
+}
+.title span{
+    color: rgb(194, 3, 3);
+}
+.img-container img{
+    width: 800px; height: 650px;
+    position: absolute;
+    z-index: -1;
+    margin-top: -3.7rem;
+    transform: scaleX(-1);
+}
+.team-card{
+    width: 620px;
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    margin-left: 3em;
+    margin-top: 2.7rem;
+    border-radius: 10px;
+    padding: 1em;
+}
+.team-card header{
+    display: flex;
+    flex-direction: row;
+}
+.team-card header img{
+    width: 100px; height: 110px;
+    
+}
+.team-card .card-title{
+    margin-top: 2.5rem; margin-left: 1rem;
+}
+.card-title p{
+    margin-top: 0.2rem;
+    opacity: 0.8;
+}
+.team-card main{
+    margin-left: 1rem; 
+    font-size: 18px;
+}
+.team-card main p{
+    margin-top: 2rem;
+    color: rgb(134, 0, 0);
+    font-weight: 900;
+}
+.team-card main p span{
+    color: black;
+    font-weight: 200;
+    margin-left: 2rem;
+}
+.Comparison{
+    font-size: 18px;
+    padding: 0.7rem;
+    position: absolute;
+    margin-left: 30rem;
+    margin-top: -2.5rem;
+    border-radius: 8px;
+    background-color: rgb(27, 65, 20);
+    color: white;
+    cursor: pointer;
+    transition: 0.2s;
+}
+.Comparison:hover{
+    background-color: rgb(41, 97, 31);
+}
+.exit{
+    position: absolute;
+    font-size: 20px;
+    margin-left: 35rem;
+    margin-top: 2rem;
+    cursor: pointer;
+    transition: 0.3s;
+    padding: 0.5rem;
+    border-radius: 50%;
+}
+.exit:hover{
+    background-color: red;
+    box-shadow: 0 0 7px red;
+    padding: 0.5rem;
+    color: white;
+}
+.search-container-c{
+    border-radius: 7px;
+    height: 40px;
+    margin: 2.5em;
+    padding: 0.2rem 1.5rem 0.2rem 1.5rem;
+    border: 1px solid rgb(165, 165, 165);
+    box-shadow: 0 0 3px rgb(165, 165, 165);
+    z-index: 3;
+    background-color: white;
+}
+.search-container-c input{
+    width: 400px; height: 40px;
+    font-size: 1.3rem;
+    font-family: font;
+    background-color: rgb(243, 243, 243);
+    background-color: white;
+}
+.search-container-c i{
+    font-size: 1.4rem;
+    background-color: white;
+}
+.result-container-c{
+    transform: translateY(10px);
+    box-shadow: 0px 0 20px rgb(0, 87, 31);
+    width: 320px;
+}
+.search-result-c{
+    width: 270px;
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+    padding: 0.35rem 4rem 0.35rem 1.5rem;
+    margin-left: -1.5em;
+    cursor: pointer;
+    transition: 0.2s;
+    border: 1px solid rgb(150, 150, 150);
+    border-radius: 4px;
+}
+.search-result-c:hover{
+    box-shadow: 0 0 5px rgb(45, 45, 45);
+}
+.search-result-c:hover p{
+    font-weight: 800;
+}
+.search-result-c img{
+    width: 30px; height: 33px;
+    z-index: 3;
+    margin-top: -0.2rem;
+    margin-left: -0.5rem;
+    transform: scaleX(1);
+}
+.search-result-c p{
+    margin-top: 10px;
+    margin-left: 0.8em;
+    transition: 0.2s;
+    margin-left: 2rem;
+}
+.img-container .team-card header img{
+    z-index: 5;
+    margin-top: 0rem;
+    transform: scaleX(1);
+}
+.img-container .team-card header .card-title {
+    margin-left: 7rem;
+    margin-top: 3rem;
+}
+.img-container .team-card header{
+    padding-bottom: 1.2rem;
+}
+.back{
+    font-size: 18px;
+    padding: 0.7rem;
+    position: absolute;
+    margin-left: 33rem;
+    margin-top: -2.5rem;
+    border-radius: 8px;
+    background-color: rgb(214, 25, 25);
+    color: white;
+    cursor: pointer;
+    transition: 0.2s;
+}
+.back:hover{
+    background-color: rgb(255, 69, 69);
+}
+.comResult{
+    margin-left: 23rem;
+    margin-top: 4rem;
+    position: absolute;
+    font-family: Bfont;
+    letter-spacing: 1;
+    font-size: 30px;
+}
+.comResult span:nth-child(1){
+    color: green;
+}
+.comResult span:nth-child(2){
+    color: red;
+}

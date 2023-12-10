@@ -1,0 +1,708 @@
+{
+    "RealMadridFC": {
+      "id": 1,
+      "club_name": "Real Madrid FC",
+      "manager_name": "Zinedine Zidane",
+      "stadium_name": "Santiago Bernabeu",
+      "league_name": "La Liga",
+      "country": "Spain",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg",
+      "fans_count": "110,000,000"
+    },
+    "FCBarcelona": {
+      "id": 2,
+      "club_name": "FC Barcelona",
+      "manager_name": "Ronald Koeman",
+      "stadium_name": "Camp Nou",
+      "league_name": "La Liga",
+      "country": "Spain",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg",
+      "fans_count": "103,000,000"
+    },
+    "ManchesterUnitedFC": {
+      "id": 3,
+      "club_name": "Manchester United FC",
+      "manager_name": "Ole Gunnar Solskjær",
+      "stadium_name": "Old Trafford",
+      "league_name": "Premier League",
+      "country": "England",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/7/7a/Manchester_United_FC_crest.svg",
+      "fans_count": "112,000,000"
+    },
+    "BayernMunich": {
+      "id": 4,
+      "club_name": "Bayern Munich",
+      "manager_name": "Julian Nagelsmann",
+      "stadium_name": "Allianz Arena",
+      "league_name": "Bundesliga",
+      "country": "Germany",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg",
+      "fans_count": "87,000,000"
+    },
+    "LiverpoolFC": {
+      "id": 5,
+      "club_name": "Liverpool FC",
+      "manager_name": "Jurgen Klopp",
+      "stadium_name": "Anfield",
+      "league_name": "Premier League",
+      "country": "England",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg",
+      "fans_count": "95,000,000"
+    },
+    "JuventusFC": {
+      "id": 6,
+      "club_name": "Juventus FC",
+      "manager_name": "Massimiliano Allegri",
+      "stadium_name": "Allianz Stadium",
+      "league_name": "Serie A",
+      "country": "Italy",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Juventus_FC_2017_icon_%28black%29.svg",
+      "fans_count": "82,000,000"
+    },
+    "ParisSaintGermain": {
+      "id": 7,
+      "club_name": "Paris Saint-Germain",
+      "manager_name": "Mauricio Pochettino",
+      "stadium_name": "Parc des Princes",
+      "league_name": "Ligue 1",
+      "country": "France",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/a/a7/Paris_Saint-Germain_F.C..svg",
+      "fans_count": "75,000,000"
+    },
+    "ManchesterCityFC": {
+      "id": 8,
+      "club_name": "Manchester City FC",
+      "manager_name": "Pep Guardiola",
+      "stadium_name": "Etihad Stadium",
+      "league_name": "Premier League",
+      "country": "England",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg",
+      "fans_count": "65,000,000"
+    },
+    "ChelseaFC": {
+      "id": 9,
+      "club_name": "Chelsea FC",
+      "manager_name": "Thomas Tuchel",
+      "stadium_name": "Stamford Bridge",
+      "league_name": "Premier League",
+      "country": "England",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/800px-Chelsea_FC.svg.png",
+      "fans_count": "57,000,000"
+    },
+    "AtleticoMadrid": {
+      "id": 10,
+      "club_name": "Atletico Madrid",
+      "manager_name": "Diego Simeone",
+      "stadium_name": "Wanda Metropolitano",
+      "league_name": "La Liga",
+      "country": "Spain",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/f/f4/Atletico_Madrid_2017_logo.svg",
+      "fans_count": "56,000,000"
+    },
+    "TottenhamHotspur": {
+      "id": 11,
+      "club_name": "Tottenham Hotspur",
+      "manager_name": "Nuno Espirito Santo",
+      "stadium_name": "Tottenham Hotspur Stadium",
+      "league_name": "Premier League",
+      "country": "England",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/b/b4/Tottenham_Hotspur.svg",
+      "fans_count": "45,000,000"
+    },
+    "ArsenalFC": {
+      "id": 12,
+      "club_name": "Arsenal FC",
+      "manager_name": "Mikel Arteta",
+      "stadium_name": "Emirates Stadium",
+      "league_name": "Premier League",
+      "country": "England",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg",
+      "fans_count": "59,000,000"
+    },
+    "ACMilan": {
+      "id": 13,
+      "club_name": "AC Milan",
+      "manager_name": "Stefano Pioli",
+      "stadium_name": "San Siro",
+      "league_name": "Serie A",
+      "country": "Italy",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Logo_of_AC_Milan.svg",
+      "fans_count": "48,000,000"
+    },
+    "BorussiaDortmund": {
+      "id": 14,
+      "club_name": "Borussia Dortmund",
+      "manager_name": "Marco Rose",
+      "stadium_name": "Signal Iduna Park",
+      "league_name": "Bundesliga",
+      "country": "Germany",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Borussia_Dortmund_logo.svg",
+      "fans_count": "55,000,000"
+    },
+    "InterMilan": {
+      "id": 15,
+      "club_name": "Inter Milan",
+      "manager_name": "Simone Inzaghi",
+      "stadium_name": "San Siro",
+      "league_name": "Serie A",
+      "country": "Italy",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/FC_Internazionale_Milano_2021.svg",
+      "fans_count": "47,000,000"
+    },
+    "ASRoma": {
+      "id": 16,
+      "club_name": "AS Roma",
+      "manager_name": "Jose Mourinho",
+      "stadium_name": "Stadio Olimpico",
+      "league_name": "Serie A",
+      "country": "Italy",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/f/f7/AS_Roma_logo_%282017%29.svg",
+      "fans_count": "35,000,000"
+    },
+    "SevillaFC": {
+      "id": 17,
+      "club_name": "Sevilla FC",
+      "manager_name": "Julen Lopetegui",
+      "stadium_name": "Ramón Sánchez Pizjuán",
+      "league_name": "La Liga",
+      "country": "Spain",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/3/3b/Sevilla_FC_logo.svg",
+      "fans_count": "30,000,000"
+    },
+    "NapoliFC": {
+      "id": 18,
+      "club_name": "Napoli FC",
+      "manager_name": "Luciano Spalletti",
+      "stadium_name": "Diego Armando Maradona",
+      "league_name": "Serie A",
+      "country": "Italy",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/SSC_Neapel.svg",
+      "fans_count": "29,000,000"
+    },
+    "LeicesterCityFC": {
+      "id": 19,
+      "club_name": "Leicester City FC",
+      "manager_name": "Brendan Rodgers",
+      "stadium_name": "King Power Stadium",
+      "league_name": "Premier League",
+      "country": "England",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/2/2d/Leicester_City_crest.svg",
+      "fans_count": "25,000,000"
+    },
+    "AtalantaBC": {
+      "id": 20,
+      "club_name": "Atalanta BC",
+      "manager_name": "Gian Piero Gasperini",
+      "stadium_name": "Gewiss Stadium",
+      "league_name": "Serie A",
+      "country": "Italy",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/6/66/AtalantaBC.svg",
+      "fans_count": "19,000,000"
+    },
+    "LeedsUnitedFC": {
+      "id": 21,
+      "club_name": "Leeds United FC",
+      "manager_name": "Marcelo Bielsa",
+      "stadium_name": "Elland Road",
+      "league_name": "Premier League",
+      "country": "England",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/5/54/Leeds_United_F.C._logo.svg",
+      "fans_count": "18,000,000"
+    },
+    "BayerLeverkusen": {
+      "id": 22,
+      "club_name": "Bayer Leverkusen",
+      "manager_name": "Gerardo Seoane",
+      "stadium_name": "BayArena",
+      "league_name": "Bundesliga",
+      "country": "Germany",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/5/59/Bayer_04_Leverkusen_logo.svg",
+      "fans_count": "17,000,000"
+    },
+    "VillarrealCF": {
+      "id": 23,
+      "club_name": "Villarreal CF",
+      "manager_name": "Unai Emery",
+      "stadium_name": "Estadio de la Cerámica",
+      "league_name": "La Liga",
+      "country": "Spain",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/b/b9/Villarreal_CF_logo-en.svg",
+      "fans_count": "16,000,000"
+    },
+    "ASMonaco": {
+      "id": 24,
+      "club_name": "AS Monaco",
+      "manager_name": "Niko Kovac",
+      "stadium_name": "Stade Louis II",
+      "league_name": "Ligue 1",
+      "country": "France",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/c/cf/LogoASMonacoFC2021.svg",
+      "fans_count": "12,000,000"
+    },
+    "BenficaSL": {
+      "id": 25,
+      "club_name": "Benfica SL",
+      "manager_name": "Jorge Jesus",
+      "stadium_name": "Estádio da Luz",
+      "league_name": "Primeira Liga",
+      "country": "Portugal",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/a/a2/SL_Benfica_logo.svg",
+      "fans_count": "15,000,000"
+    },
+    "EintrachtFrankfurt": {
+      "id": 26,
+      "club_name": "Eintracht Frankfurt",
+      "manager_name": "Oliver Glasner",
+      "stadium_name": "Deutsche Bank Park",
+      "league_name": "Bundesliga",
+      "country": "Germany",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Eintracht_Frankfurt_Logo.svg",
+      "fans_count": "13,000,000"
+    },
+    "LazioSS": {
+      "id": 27,
+      "club_name": "Lazio SS",
+      "manager_name": "Maurizio Sarri",
+      "stadium_name": "Stadio Olimpico",
+      "league_name": "Serie A",
+      "country": "Italy",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/c/ce/S.S._Lazio_badge.svg",
+      "fans_count": "11,000,000"
+    },
+    "RBLeipzig": {
+      "id": 28,
+      "club_name": "RB Leipzig",
+      "manager_name": "Jesse Marsch",
+      "stadium_name": "Red Bull Arena",
+      "league_name": "Bundesliga",
+      "country": "Germany",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/0/04/RB_Leipzig_2014_logo.svg",
+      "fans_count": "10,000,000"
+    },
+    "ACFFiorentina": {
+      "id": 29,
+      "club_name": "ACF Fiorentina",
+      "manager_name": "Gennaro Gattuso",
+      "stadium_name": "Stadio Artemio Franchi",
+      "league_name": "Serie A",
+      "country": "Italy",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/2022_ACF_Fiorentina_logo.svg",
+      "fans_count": "9,000,000"
+    },
+    "AjaxAmsterdam": {
+      "id": 30,
+      "club_name": "Ajax Amsterdam",
+      "manager_name": "Erik ten Hag",
+      "stadium_name": "Johan Cruyff Arena",
+      "league_name": "Eredivisie",
+      "country": "Netherlands",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/7/79/Ajax_Amsterdam.svg",
+      "fans_count": "8,000,000"
+    },
+    "ShakhtarDonetsk": {
+      "id": 31,
+      "club_name": "Shakhtar Donetsk",
+      "manager_name": "Roberto De Zerbi",
+      "stadium_name": "Olimpiyskiy National Sports Complex",
+      "league_name": "Ukrainian Premier League",
+      "country": "Ukraine",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/a/a1/FC_Shakhtar_Donetsk.svg",
+      "fans_count": "7,000,000"
+    },
+    "OlympiqueLyonnais": {
+      "id": 32,
+      "club_name": "Olympique Lyonnais",
+      "manager_name": "Peter Bosz",
+      "stadium_name": "Groupama Stadium",
+      "league_name": "Ligue 1",
+      "country": "France",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/1/1c/Olympique_Lyonnais_logo.svg",
+      "fans_count": "6,000,000"
+    },
+    "PortoFC": {
+      "id": 33,
+      "club_name": "Porto FC",
+      "manager_name": "Sérgio Conceição",
+      "stadium_name": "Estádio do Dragão",
+      "league_name": "Primeira Liga",
+      "country": "Portugal",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/f/f1/FC_Porto.svg",
+      "fans_count": "5,000,000"
+    },
+    "OGCNice": {
+      "id": 34,
+      "club_name": "OGC Nice",
+      "manager_name": "Christophe Galtier",
+      "stadium_name": "Allianz Riviera",
+      "league_name": "Ligue 1",
+      "country": "France",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/2/2e/OGC_Nice_logo.svg",
+      "fans_count": "4,000,000"
+    },
+    "RangersFC": {
+      "id": 35,
+      "club_name": "Rangers FC",
+      "manager_name": "Steven Gerrard",
+      "stadium_name": "Ibrox Stadium",
+      "league_name": "Scottish Premiership",
+      "country": "Scotland",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/4/43/Rangers_FC.svg",
+      "fans_count": "4,500,000"
+    },
+    "GalatasaraySK": {
+      "id": 36,
+      "club_name": "Galatasaray SK",
+      "manager_name": "Fathi Terim",
+      "stadium_name": "Türk Telekom Stadium",
+      "league_name": "Süper Lig",
+      "country": "Turkey",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Galatasaray_4_Sterne_Logo.svg",
+      "fans_count": "5,500,000"
+    },
+    "FCLokomotivMoscow": {
+        "id": 37,
+        "club_name": "FC Lokomotiv Moscow",
+        "manager_name": "Mikhail Galaktionov",
+        "stadium_name": "RZD Arena",
+        "league_name": "Russian Premier League",
+        "country": "Russia",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/en/9/93/FC_Lokomotiv_Moscow_logo.svg",
+        "fans_count": "2,100,000"
+      },
+    "CelticFC": {
+      "id": 38,
+      "club_name": "Celtic FC",
+      "manager_name": "Ange Postecoglou",
+      "stadium_name": "Celtic Park",
+      "league_name": "Scottish Premiership",
+      "country": "Scotland",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Celtic_FC.svg/800px-Celtic_FC.svg.png",
+      "fans_count": "3,000,000"
+    },
+    "PSVEindhoven": {
+      "id": 39,
+      "club_name": "PSV Eindhoven",
+      "manager_name": "Roger Schmidt",
+      "stadium_name": "Philips Stadion",
+      "league_name": "Eredivisie",
+      "country": "Netherlands",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/0/05/PSV_Eindhoven.svg",
+      "fans_count": "2,500,000"
+    },
+    "FenerbahceSK": {
+      "id": 40,
+      "club_name": "Fenerbahçe SK",
+      "manager_name": "Vitor Pereira",
+      "stadium_name": "Ülker Stadium",
+      "league_name": "Süper Lig",
+      "country": "Turkey",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/3/39/Fenerbah%C3%A7e.svg",
+      "fans_count": "2,200,000"
+    },
+    "BocaJuniors": {
+      "id": 41,
+      "club_name": "Boca Juniors",
+      "manager_name": "Miguel Ángel Russo",
+      "stadium_name": "Estadio Alberto J. Armando",
+      "league_name": "Argentinian Primera División",
+      "country": "Argentina",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Boca_Juniors_logo18.svg",
+      "fans_count": "2,800,000"
+    },
+    "SCBraga": {
+      "id": 42,
+      "club_name": "SC Braga",
+      "manager_name": "Carlos Carvalhal",
+      "stadium_name": "Estádio Municipal de Braga",
+      "league_name": "Primeira Liga",
+      "country": "Portugal",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/7/79/S.C._Braga_logo.svg",
+      "fans_count": "2,000,000"
+    },
+    "ShandongTaishanFC": {
+      "id": 43,
+      "club_name": "Shandong Taishan FC",
+      "manager_name": "Li Xiaopeng",
+      "stadium_name": "Jinan Olympic Sports Center Stadium",
+      "league_name": "Chinese Super League",
+      "country": "China",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/8/88/Shandong_Taishan_Football_Club.svg",
+      "fans_count": "3,200,000"
+    },
+    "SportingCP": {
+      "id": 44,
+      "club_name": "Sporting CP",
+      "manager_name": "Rúben Amorim",
+      "stadium_name": "Estádio José Alvalade",
+      "league_name": "Primeira Liga",
+      "country": "Portugal",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/e/e1/Sporting_Clube_de_Portugal_%28Logo%29.svg",
+      "fans_count": "2,300,000"
+    },
+    "CSKAMoscow": {
+      "id": 45,
+      "club_name": "CSKA Moscow",
+      "manager_name": "Viktor Goncharenko",
+      "stadium_name": "VEB Arena",
+      "league_name": "Russian Premier League",
+      "country": "Russia",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/2/26/PFK_CSKA_Logo.svg",
+      "fans_count": "1,800,000"
+    },
+    "WestHamUnitedFC": {
+      "id": 46,
+      "club_name": "West Ham United FC",
+      "manager_name": "David Moyes",
+      "stadium_name": "London Stadium",
+      "league_name": "Premier League",
+      "country": "England",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/c/c2/West_Ham_United_FC_logo.svg",
+      "fans_count": "2,600,000"
+    },
+    "GlasgowRangersFC": {
+      "id": 47,
+      "club_name": "Glasgow Rangers FC",
+      "manager_name": "Steven Gerrard",
+      "stadium_name": "Ibrox Stadium",
+      "league_name": "Scottish Premiership",
+      "country": "Scotland",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/4/43/Rangers_FC.svg",
+      "fans_count": "3,000,000"
+    },
+    "ZobAhanEsfahan": {
+        "id": 48,
+        "club_name": "Zob Ahan Esfahan",
+        "manager_name": "Mohammad Rabiei",
+        "stadium_name": "FooladShahr Stadium",
+        "league_name": "Persian Gulf Pro League",
+        "country": "Iran",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/en/3/38/Zob_Ahan_Esfahan.png",
+        "fans_count": "4,200,000"
+      },
+    "TorinoFC": {
+      "id": 49,
+      "club_name": "Torino FC",
+      "manager_name": "Ivan Juric",
+      "stadium_name": "Stadio Olimpico Grande Torino",
+      "league_name": "Serie A",
+      "country": "Italy",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/2/2e/Torino_FC_Logo.svg",
+      "fans_count": "1,600,000"
+    },
+    "LilleOSC": {
+      "id": 50,
+        "club_name": "Lille OSC",
+        "manager_name": "Jocelyn Gourvennec",
+        "stadium_name": "Stade Pierre-Mauroy",
+        "league_name": "Ligue 1",
+        "country": "France",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/en/3/3f/Lille_OSC_2018_logo.svg",
+        "fans_count": "22,000,000"
+    },
+    "RCDMallorca": {
+        "id": 51,
+        "club_name": "RCD Mallorca",
+        "manager_name": "Luis García Plaza",
+        "stadium_name": "Estadi de Son Moix",
+        "league_name": "La Liga",
+        "country": "Spain",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/en/e/e0/Rcd_mallorca.svg",
+        "fans_count": "15,000,000"
+    },
+    "RBSalzburg": {
+        "id": 52,
+        "club_name": "RB Salzburg",
+        "manager_name": "Jesse Marsch",
+        "stadium_name": "Red Bull Arena",
+        "league_name": "Austrian Bundesliga",
+        "country": "Austria",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/en/7/77/FC_Red_Bull_Salzburg_logo.svg",
+        "fans_count": "16,000,000"
+    },
+    "Copenhagen": {
+        "id": 53,
+        "club_name": "Copenhagen",
+        "manager_name": "Jess Thorup",
+        "stadium_name": "Telia Parken",
+        "league_name": "Danish Superliga",
+        "country": "Denmark",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/en/2/26/FC_Copenhagen_logo.svg",
+        "fans_count": "14,000,000"
+    },
+    "DynamoKyiv": {
+        "id": 54,
+        "club_name": "Dynamo Kyiv",
+        "manager_name": "Mircea Lucescu",
+        "stadium_name": "NSC Olimpiyskiy",
+        "league_name": "Ukrainian Premier League",
+        "country": "Ukraine",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/FC_Dynamo_Kyiv_logo.svg",
+        "fans_count": "16,000,000"
+    },
+    "MelbourneVictory": {
+        "id": 55,
+        "club_name": "Melbourne Victory",
+        "manager_name": "Tony Popovic",
+        "stadium_name": "AAMI Park",
+        "league_name": "A-League",
+        "country": "Australia",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/en/9/95/Melbourne_Victory.svg",
+        "fans_count": "12,000,000"
+    },
+    "GuangzhouEvergrandeFC": {
+        "id": 56,
+        "club_name": "Guangzhou Evergrande FC",
+        "manager_name": "Fabio Cannavaro",
+        "stadium_name": "Tianhe Stadium",
+        "league_name": "Chinese Super League",
+        "country": "China",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/en/9/98/Guangzhou_Evergrande_Taobao_logo.svg",
+        "fans_count": "25,000,000"
+    },
+    "AtlantaUnitedFC": {
+        "id": 57,
+        "club_name": "Atlanta United FC",
+        "manager_name": "Gabriel Heinze",
+        "stadium_name": "Mercedes-Benz Stadium",
+        "league_name": "Major League Soccer",
+        "country": "United States",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Atlanta_MLS.svg",
+        "fans_count": "30,000,000"
+    },
+    "AlAhly": {
+        "id": 58,
+        "club_name": "Al Ahly",
+        "manager_name": "Pitso Mosimane",
+        "stadium_name": "Cairo International Stadium",
+        "league_name": "Egyptian Premier League",
+        "country": "Egypt",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/en/8/8c/Al_Ahly_SC_logo.png",
+        "fans_count": "20,000,000"
+    },
+    "RedStarBelgrade": {
+        "id": 59,
+        "club_name": "Red Star Belgrade",
+        "manager_name": "Dejan Stanković",
+        "stadium_name": "Rajko Mitić Stadium",
+        "league_name": "Serbian SuperLiga",
+        "country": "Serbia",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Grb-fk-crvena-zvezda.svg",
+        "fans_count": "16,000,000"
+    },
+    "ClubAmérica": {
+        "id": 60,
+        "club_name": "Club América",
+        "manager_name": "Santiago Solari",
+        "stadium_name": "Estadio Azteca",
+        "league_name": "Liga MX",
+        "country": "Mexico",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/en/0/01/Club_Am%C3%A9rica_logo.svg",
+        "fans_count": "28,000,000"
+    },
+    "Esteghlal": {
+      "id": 61,
+      "club_name": "Esteghlal",
+      "manager_name": "Farhad Majidi",
+      "stadium_name": "Azadi Stadium",
+      "league_name": "Persian Gulf Pro League",
+      "country": "Iran",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Esteghlal_Fc_Football_Club.png",
+      "fans_count": "8,000,000"
+    },
+    "Persepolis": {
+      "id": 62,
+      "club_name": "Persepolis",
+      "manager_name": "Yahya Golmohamadi",
+      "stadium_name": "Azadi Stadium",
+      "league_name": "Persian Gulf Pro League",
+      "country": "Iran",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/b/b8/Persepolis_2017_logo.png",
+      "fans_count": "9,000,000"
+    },
+    "Al-SaddSC": {
+      "id": 63,
+      "club_name": "Al-Sadd SC",
+      "manager_name": "Ahmed Hassan",
+      "stadium_name": "Jassim Bin Hamad Stadium",
+      "league_name": "Qatar Stars League",
+      "country": "Qatar",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/ro/0/04/Al-Sadd_SC.svg",
+      "fans_count": "10,000,000"
+    },
+    "AlHilal": {
+      "id": 64,
+      "club_name": "Al Hilal",
+      "manager_name": "Mansour Almosa",
+      "stadium_name": "King Saud University Stadium",
+      "league_name": "Saudi Pro League",
+      "country": "Saudi Arabia",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Al-Hilal-Logo.png",
+      "fans_count": "11,000,000"
+    },
+    "Sepahan": {
+      "id": 65,
+      "club_name": "Sepahan",
+      "manager_name": "José Morais",
+      "stadium_name": "Foolad Shahr Stadium",
+      "league_name": "Persian Gulf Pro League",
+      "country": "Iran",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/8/80/Sepahan_New_Logo.svg",
+      "fans_count": "6,000,000"
+    },
+    "InterMiamiCF": {
+      "id": 66,
+      "club_name": "Inter Miami CF",
+      "manager_name": "Gerardo Martino",
+      "stadium_name": "DRV PNK Stadium",
+      "league_name": "Mls Football League",
+      "country": "United States",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/5/5c/Inter_Miami_CF_logo.svg",
+      "fans_count": "25,000,000"
+    },
+    "TractorSazi": {
+      "id": 67,
+      "club_name": "Tractor Sazi",
+      "manager_name": "Paco Jémez",
+      "stadium_name": "Yadegar-e Emam Stadium",
+      "league_name": "Persian Gulf Pro League",
+      "country": "Iran",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Tractor-logo.svg",
+      "fans_count": "7,000,000"
+    },
+    "Brighton&HoveAlbion": {
+      "id": 68,
+      "club_name": "Brighton & Hove Albion",
+      "manager_name": "Roberto De Zerbi",
+      "stadium_name": "American Express Community Stadium",
+      "league_name": "Premier League",
+      "country": "England",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/f/fd/Brighton_%26_Hove_Albion_logo.svg",
+      "fans_count": "28,000,000"
+    },
+    "AlNassr": {
+      "id": 69,
+      "club_name": "Al Nassr",
+      "manager_name": "Fahad Al Mirdasi",
+      "stadium_name": "King Fahd Stadium",
+      "league_name": "Saudi Pro League",
+      "country": "Saudi Arabia",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/9/9d/Logo_Al-Nassr.png",
+      "fans_count": "15,000,000"
+    },
+    "AlIttihad": {
+      "id": 70,
+      "club_name": "Al Ittihad",
+      "manager_name": "Juan Carlos Garrido",
+      "stadium_name": "King Abdullah Sports City",
+      "league_name": "Saudi Pro League",
+      "country": "Saudi Arabia",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/fa/d/d3/Ittihad_logo_2019.png",
+      "fans_count": "12,000,000"
+    },
+    "Global": {
+      "NationalTeams" : "208",
+      "Leagues" : "31",
+      "Teams" : "625",
+      "Player" : "+54999"
+    }
+}
